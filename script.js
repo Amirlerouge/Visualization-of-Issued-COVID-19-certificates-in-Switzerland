@@ -19,7 +19,6 @@ fetch(url)
     getRecovered(value);
     getVaccinated(value);
     getTested(value);
-    //return value; // Display file content in the console
   });
 
 
