@@ -5,5 +5,4 @@ Using Chart.js + data from admin.ch
 
 ## Usage
 
-just click on the link
-
+Click  [here](https://amirlerouge.github.io/Visualization-of-Issued-COVID-19-certificates-in-Switzerland/).
