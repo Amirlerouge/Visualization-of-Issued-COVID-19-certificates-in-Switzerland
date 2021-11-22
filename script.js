@@ -88,9 +88,7 @@ function setDate(object){
     
 }
 
-let tester = ['mars','non'];
-console.log(dates);
-console.log(tester);
+
 const myChart = new Chart(ctx, {
     type: 'bar',
     data: {
@@ -137,7 +135,7 @@ const myChart = new Chart(ctx, {
             ],
             borderWidth: 1
         },{
-            label: 'Total',
+            label: 'Total (click me)',
             data: sumTotal,
             backgroundColor: [
 
